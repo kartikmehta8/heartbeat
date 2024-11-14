@@ -1,0 +1,15 @@
+{
+  "name": "heartbeat",
+  "version": "1.0.0",
+  "scripts": {
+    "format": "prettier --write \"**/*.{js,json,html,css}\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "moment": "^2.30.1",
+    "ws": "^8.18.0"
+  }
+}

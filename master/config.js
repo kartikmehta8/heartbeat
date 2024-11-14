@@ -1,0 +1,5 @@
+module.exports = {
+  MASTER_PORT: 8080,
+  HEARTBEAT_INTERVAL: 5000,
+  CHECK_INTERVAL: 2000   
+};
